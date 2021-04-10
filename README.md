@@ -28,4 +28,9 @@
 
 <br/>
 
+<a href="https://github.com/mjekott">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjekott&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjekott&theme=buefy&layout=compact" />
+</a>
+
 <br/>
