@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Self taught developer based in Nigeria
 - 🎓 &nbsp; Earned a BSc in Computer Science(Computer Information System) from Babcock University.
 - 💼 &nbsp; Working with Typscript and Node.js projects to improve my skills .
-- ✍️ &nbsp; I am a big Manutd Fan and Fifa soccer gamer.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
