@@ -5,7 +5,6 @@ Fullstack Javascript Developer
 ------------------------------
 
 * 🌍  I'm based in Lagos,Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://mjekott.com)
 * ✉️  You can contact me at [ekottmfon@gmail.com](mailto:ekottmfon@gmail.com)
 * 🚀  I'm currently working on [Building Campusss UI](http://campusss.io)
 * 🧠  I'm learning Micro-service in Nest Js
