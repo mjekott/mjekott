@@ -8,7 +8,6 @@ Fullstack Javascript Developer
 * ✉️  You can contact me at [ekottmfon@gmail.com](mailto:ekottmfon@gmail.com)
 * 🚀  I'm currently working on [Campusss UI](https://campusss.io)
 * 🚀  I'm currently working on [Nearpays Coorperate](https://nearpays.com)
-* 🧠  I'm learning Micro-service in Nest Js
 * 🤝  I'm open to collaborating on Interesting Projects
 
 
