@@ -6,7 +6,8 @@ Fullstack Javascript Developer
 
 * 🌍  I'm based in Lagos,Nigeria
 * ✉️  You can contact me at [ekottmfon@gmail.com](mailto:ekottmfon@gmail.com)
-* 🚀  I'm currently working on [Campusss UI](https://campusss.io)
+* 🚀  I'm currently working on [Tranzypay](https://tranzypay.co.uk/)
+*  🚀  I'm currently working on [getFlick](https://getflick.co/)
 * 🚀  I'm currently working on [Nearpays Coorperate](https://nearpays.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 
