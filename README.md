@@ -19,7 +19,7 @@ Fullstack Javascript Developer
 
 ### 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,nestjs,nextjs,react,vuejs,nuxtjs,express,tailwind,styledcomponents,materialui,mongodb,sequelize,mysql,postgres,pinia,redux,vite,html,css,pug,aws,prisma,bitbucket,bootstrap,emotion,git,gitlab,go,heroku,jest,netlify,nginx,npm,postman,rabbitmq,redis,supabase,svg,github,ts,ubuntu,vercel,vscode,yarn,powershell&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,nestjs,nextjs,react,express,tailwind,styledcomponents,materialui,mongodb,sequelize,mysql,postgres,redux,vite,html,css,pug,aws,prisma,bitbucket,bootstrap,emotion,git,gitlab,heroku,jest,netlify,nginx,npm,postman,rabbitmq,redis,supabase,svg,github,ts,ubuntu,vercel,vscode,yarn,powershell&perline=15)](https://skillicons.dev)
 
 
 
