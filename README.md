@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=mjekott=green)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mfonobong Ekott
 =======================================================================================================================================
 
@@ -10,6 +12,14 @@ Fullstack Javascript Developer
 *  🚀  I'm currently working on [getFlick](https://getflick.co/)
 * 🚀  I'm currently working on [Nearpays Coorperate](https://nearpays.com)
 * 🤝  I'm open to collaborating on Interesting Projects
+
+* 
+    
+
+
+### 🛠 Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,nestjs,nextjs,react,vuejs,nuxtjs,express,tailwind,styledcomponents,materialui,mongodb,sequelize,mysql,postgres,pinia,redux,vite,html,css,pug,aws,prisma,bitbucket,bootstrap,emotion,git,gitlab,go,heroku,jest,netlify,nginx,npm,postman,rabbitmq,redis,supabase,svg,github,ts,ubuntu,vercel,vscode,yarn,powershell&perline=15)](https://skillicons.dev)
 
 
 
